@@ -18,6 +18,7 @@ const library = [
 
 const numberOfBooksRead = () => {
   // write your code here
+	console.log("Number of books read:", numberOfBooksRead);
 };
 
 // Do not change the code below
